@@ -1,0 +1,307 @@
+New York	New York
+Los Angeles	California
+Chicago	Illinois
+Houston	Texas
+Phoenix	Arizona
+Philadelphia	Pennsylvania
+San Antonio	Texas
+San Diego	California
+Dallas	Texas
+San Jose	California
+Austin	Texas
+Jacksonville	Florida
+San Francisco	California
+Columbus	Ohio
+Indianapolis	Indiana
+Fort Worth	Texas
+Charlotte	North Carolina
+Seattle	Washington
+Denver	Colorado
+El Paso	Texas
+Washington	District of Columbia
+Boston	Massachusetts
+Detroit	Michigan
+Nashville	Tennessee
+Memphis	Tennessee
+Portland	Oregon
+Oklahoma City	Oklahoma
+Las Vegas	Nevada
+Louisville	Kentucky
+Baltimore	Maryland
+Milwaukee	Wisconsin
+Albuquerque	New Mexico
+Tucson	Arizona
+Fresno	California
+Sacramento	California
+Mesa	Arizona
+Kansas City	Missouri
+Atlanta	Georgia
+Long Beach	California
+Colorado Springs	Colorado
+Raleigh	North Carolina
+Miami	Florida
+Virginia Beach	Virginia
+Omaha	Nebraska
+Oakland	California
+Minneapolis	Minnesota
+Tulsa	Oklahoma
+Arlington	Texas
+New Orleans	Louisiana
+Wichita	Kansas
+Cleveland	Ohio
+Tampa	Florida
+Bakersfield	California
+Aurora	Colorado
+Honolulu	Hawaii
+Anaheim	California
+Santa Ana	California
+Corpus Christi	Texas
+Riverside	California
+Lexington	Kentucky
+St. Louis	Missouri
+Stockton	California
+Pittsburgh	Pennsylvania
+Saint Paul	Minnesota
+Cincinnati	Ohio
+Anchorage	Alaska
+Henderson	Nevada
+Greensboro	North Carolina
+Plano	Texas
+Newark	New Jersey
+Lincoln	Nebraska
+Toledo	Ohio
+Orlando	Florida
+Chula Vista	California
+Irvine	California
+Fort Wayne	Indiana
+Jersey City	New Jersey
+Durham	North Carolina
+St. Petersburg	Florida
+Laredo	Texas
+Buffalo	New York
+Madison	Wisconsin
+Lubbock	Texas
+Chandler	Arizona
+Scottsdale	Arizona
+Glendale	Arizona
+Reno	Nevada
+Norfolk	Virginia
+Winston–Salem	North Carolina
+North Las Vegas	Nevada
+Irving	Texas
+Chesapeake	Virginia
+Gilbert	Arizona
+Hialeah	Florida
+Garland	Texas
+Fremont	California
+Baton Rouge	Louisiana
+Richmond	Virginia
+Boise	Idaho
+San Bernardino	California
+Spokane	Washington
+Des Moines	Iowa
+Modesto	California
+Birmingham	Alabama
+Tacoma	Washington
+Fontana	California
+Rochester	New York
+Oxnard	California
+Moreno Valley	California
+Fayetteville	North Carolina
+Aurora	Illinois
+Glendale	California
+Yonkers	New York
+Huntington Beach	California
+Montgomery	Alabama
+Amarillo	Texas
+Little Rock	Arkansas
+Akron	Ohio
+Columbus	Georgia
+Augusta	Georgia
+Grand Rapids	Michigan
+Shreveport	Louisiana
+Salt Lake City	Utah
+Huntsville	Alabama
+Mobile	Alabama
+Tallahassee	Florida
+Grand Prairie	Texas
+Overland Park	Kansas
+Knoxville	Tennessee
+Port St. Lucie	Florida
+Worcester	Massachusetts
+Brownsville	Texas
+Tempe	Arizona
+Santa Clarita	California
+Newport News	Virginia
+Cape Coral	Florida
+Providence	Rhode Island
+Fort Lauderdale	Florida
+Chattanooga	Tennessee
+Rancho Cucamonga	California
+Oceanside	California
+Santa Rosa	California
+Garden Grove	California
+Vancouver	Washington
+Sioux Falls	South Dakota
+Ontario	California
+McKinney	Texas
+Elk Grove	California
+Jackson	Mississippi
+Pembroke Pines	Florida
+Salem	Oregon
+Springfield	Missouri
+Corona	California
+Eugene	Oregon
+Fort Collins	Colorado
+Peoria	Arizona
+Frisco	Texas
+Cary	North Carolina
+Lancaster	California
+Hayward	California
+Palmdale	California
+Salinas	California
+Alexandria	Virginia
+Lakewood	Colorado
+Springfield	Massachusetts
+Pasadena	Texas
+Sunnyvale	California
+Macon	Georgia
+Pomona	California
+Hollywood	Florida
+Kansas City	Kansas
+Escondido	California
+Clarksville	Tennessee
+Joliet	Illinois
+Rockford	Illinois
+Torrance	California
+Naperville	Illinois
+Paterson	New Jersey
+Savannah	Georgia
+Bridgeport	Connecticut
+Mesquite	Texas
+Killeen	Texas
+Syracuse	New York
+McAllen	Texas
+Pasadena	California
+Bellevue	Washington
+Fullerton	California
+Orange	California
+Dayton	Ohio
+Miramar	Florida
+Thornton	Colorado
+West Valley City	Utah
+Olathe	Kansas
+Hampton	Virginia
+Warren	Michigan
+Midland	Texas
+Waco	Texas
+Charleston	South Carolina
+Columbia	South Carolina
+Denton	Texas
+Carrollton	Texas
+Surprise	Arizona
+Roseville	California
+Sterling Heights	Michigan
+Murfreesboro	Tennessee
+Gainesville	Florida
+Cedar Rapids	Iowa
+Visalia	California
+Coral Springs	Florida
+New Haven	Connecticut
+Stamford	Connecticut
+Thousand Oaks	California
+Concord	California
+Elizabeth	New Jersey
+Lafayette	Louisiana
+Kent	Washington
+Topeka	Kansas
+Simi Valley	California
+Santa Clara	California
+Athens	Georgia
+Hartford	Connecticut
+Victorville	California
+Abilene	Texas
+Norman	Oklahoma
+Vallejo	California
+Berkeley	California
+Round Rock	Texas
+Ann Arbor	Michigan
+Fargo	North Dakota
+Columbia	Missouri
+Allentown	Pennsylvania
+Evansville	Indiana
+Beaumont	Texas
+Odessa	Texas
+Wilmington	North Carolina
+Arvada	Colorado
+Independence	Missouri
+Provo	Utah
+Lansing	Michigan
+El Monte	California
+Springfield	Illinois
+Fairfield	California
+Clearwater	Florida
+Peoria	Illinois
+Rochester	Minnesota
+Carlsbad	California
+Westminster	Colorado
+West Jordan	Utah
+Pearland	Texas
+Richardson	Texas
+Downey	California
+Miami Gardens	Florida
+Temecula	California
+Costa Mesa	California
+College Station	Texas
+Elgin	Illinois
+Murrieta	California
+Gresham	Oregon
+High Point	North Carolina
+Antioch	California
+Inglewood	California
+Cambridge	Massachusetts
+Lowell	Massachusetts
+Manchester	New Hampshire
+Billings	Montana
+Pueblo	Colorado
+Palm Bay	Florida
+Centennial	Colorado
+Richmond	California
+Ventura	California
+Pompano Beach	Florida
+North Charleston	South Carolina
+Everett	Washington
+Waterbury	Connecticut
+West Palm Beach	Florida
+Boulder	Colorado
+West Covina	California
+Broken Arrow	Oklahoma
+Clovis	California
+Daly City	California
+Lakeland	Florida
+Santa Maria	California
+Norwalk	California
+Sandy Springs	Georgia
+Hillsboro	Oregon
+Green Bay	Wisconsin
+Tyler	Texas
+Wichita Falls	Texas
+Lewisville	Texas
+Burbank	California
+Greeley	Colorado
+San Mateo	California
+El Cajon	California
+Jurupa Valley	California
+Rialto	California
+Davenport	Iowa
+League City	Texas
+Edison	New Jersey
+Davie	Florida
+Las Cruces	New Mexico
+South Bend	Indiana
+Vista	California
+Woodbridge	New Jersey
+Renton	Washington
+Lakewood	New Jersey
+San Angelo	Texas
+Clinton	Michigan

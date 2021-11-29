@@ -1,0 +1,307 @@
+Birmingham	Alabama
+Montgomery	Alabama
+Huntsville	Alabama
+Mobile	Alabama
+Anchorage	Alaska
+Phoenix	Arizona
+Tucson	Arizona
+Mesa	Arizona
+Chandler	Arizona
+Scottsdale	Arizona
+Glendale	Arizona
+Gilbert	Arizona
+Tempe	Arizona
+Peoria	Arizona
+Surprise	Arizona
+Little Rock	Arkansas
+Los Angeles	California
+San Diego	California
+San Jose	California
+San Francisco	California
+Fresno	California
+Sacramento	California
+Long Beach	California
+Oakland	California
+Bakersfield	California
+Anaheim	California
+Santa Ana	California
+Riverside	California
+Stockton	California
+Chula Vista	California
+Irvine	California
+Fremont	California
+San Bernardino	California
+Modesto	California
+Fontana	California
+Oxnard	California
+Moreno Valley	California
+Glendale	California
+Huntington Beach	California
+Santa Clarita	California
+Rancho Cucamonga	California
+Oceanside	California
+Santa Rosa	California
+Garden Grove	California
+Ontario	California
+Elk Grove	California
+Corona	California
+Lancaster	California
+Hayward	California
+Palmdale	California
+Salinas	California
+Sunnyvale	California
+Pomona	California
+Escondido	California
+Torrance	California
+Pasadena	California
+Fullerton	California
+Orange	California
+Roseville	California
+Visalia	California
+Thousand Oaks	California
+Concord	California
+Simi Valley	California
+Santa Clara	California
+Victorville	California
+Vallejo	California
+Berkeley	California
+El Monte	California
+Fairfield	California
+Carlsbad	California
+Downey	California
+Temecula	California
+Costa Mesa	California
+Murrieta	California
+Antioch	California
+Inglewood	California
+Richmond	California
+Ventura	California
+West Covina	California
+Clovis	California
+Daly City	California
+Santa Maria	California
+Norwalk	California
+Burbank	California
+San Mateo	California
+El Cajon	California
+Jurupa Valley	California
+Rialto	California
+Vista	California
+Denver	Colorado
+Colorado Springs	Colorado
+Aurora	Colorado
+Fort Collins	Colorado
+Lakewood	Colorado
+Thornton	Colorado
+Arvada	Colorado
+Westminster	Colorado
+Pueblo	Colorado
+Centennial	Colorado
+Boulder	Colorado
+Greeley	Colorado
+Bridgeport	Connecticut
+New Haven	Connecticut
+Stamford	Connecticut
+Hartford	Connecticut
+Waterbury	Connecticut
+Washington	District of Columbia
+Jacksonville	Florida
+Miami	Florida
+Tampa	Florida
+Orlando	Florida
+St. Petersburg	Florida
+Hialeah	Florida
+Tallahassee	Florida
+Port St. Lucie	Florida
+Cape Coral	Florida
+Fort Lauderdale	Florida
+Pembroke Pines	Florida
+Hollywood	Florida
+Miramar	Florida
+Gainesville	Florida
+Coral Springs	Florida
+Clearwater	Florida
+Miami Gardens	Florida
+Palm Bay	Florida
+Pompano Beach	Florida
+West Palm Beach	Florida
+Lakeland	Florida
+Davie	Florida
+Atlanta	Georgia
+Columbus	Georgia
+Augusta	Georgia
+Macon	Georgia
+Savannah	Georgia
+Athens	Georgia
+Sandy Springs	Georgia
+Honolulu	Hawaii
+Boise	Idaho
+Chicago	Illinois
+Aurora	Illinois
+Joliet	Illinois
+Rockford	Illinois
+Naperville	Illinois
+Springfield	Illinois
+Peoria	Illinois
+Elgin	Illinois
+Indianapolis	Indiana
+Fort Wayne	Indiana
+Evansville	Indiana
+South Bend	Indiana
+Des Moines	Iowa
+Cedar Rapids	Iowa
+Davenport	Iowa
+Wichita	Kansas
+Overland Park	Kansas
+Kansas City	Kansas
+Olathe	Kansas
+Topeka	Kansas
+Louisville	Kentucky
+Lexington	Kentucky
+New Orleans	Louisiana
+Baton Rouge	Louisiana
+Shreveport	Louisiana
+Lafayette	Louisiana
+Baltimore	Maryland
+Boston	Massachusetts
+Worcester	Massachusetts
+Springfield	Massachusetts
+Cambridge	Massachusetts
+Lowell	Massachusetts
+Detroit	Michigan
+Grand Rapids	Michigan
+Warren	Michigan
+Sterling Heights	Michigan
+Ann Arbor	Michigan
+Lansing	Michigan
+Clinton	Michigan
+Minneapolis	Minnesota
+Saint Paul	Minnesota
+Rochester	Minnesota
+Jackson	Mississippi
+Kansas City	Missouri
+St. Louis	Missouri
+Springfield	Missouri
+Columbia	Missouri
+Independence	Missouri
+Billings	Montana
+Omaha	Nebraska
+Lincoln	Nebraska
+Las Vegas	Nevada
+Henderson	Nevada
+Reno	Nevada
+North Las Vegas	Nevada
+Manchester	New Hampshire
+Newark	New Jersey
+Jersey City	New Jersey
+Paterson	New Jersey
+Elizabeth	New Jersey
+Edison	New Jersey
+Woodbridge	New Jersey
+Lakewood	New Jersey
+Albuquerque	New Mexico
+Las Cruces	New Mexico
+New York	New York
+Buffalo	New York
+Rochester	New York
+Yonkers	New York
+Syracuse	New York
+Charlotte	North Carolina
+Raleigh	North Carolina
+Greensboro	North Carolina
+Durham	North Carolina
+Winston–Salem	North Carolina
+Fayetteville	North Carolina
+Cary	North Carolina
+Wilmington	North Carolina
+High Point	North Carolina
+Fargo	North Dakota
+Columbus	Ohio
+Cleveland	Ohio
+Cincinnati	Ohio
+Toledo	Ohio
+Akron	Ohio
+Dayton	Ohio
+Oklahoma City	Oklahoma
+Tulsa	Oklahoma
+Norman	Oklahoma
+Broken Arrow	Oklahoma
+Portland	Oregon
+Salem	Oregon
+Eugene	Oregon
+Gresham	Oregon
+Hillsboro	Oregon
+Philadelphia	Pennsylvania
+Pittsburgh	Pennsylvania
+Allentown	Pennsylvania
+Providence	Rhode Island
+Charleston	South Carolina
+Columbia	South Carolina
+North Charleston	South Carolina
+Sioux Falls	South Dakota
+Nashville	Tennessee
+Memphis	Tennessee
+Knoxville	Tennessee
+Chattanooga	Tennessee
+Clarksville	Tennessee
+Murfreesboro	Tennessee
+Houston	Texas
+San Antonio	Texas
+Dallas	Texas
+Austin	Texas
+Fort Worth	Texas
+El Paso	Texas
+Arlington	Texas
+Corpus Christi	Texas
+Plano	Texas
+Laredo	Texas
+Lubbock	Texas
+Irving	Texas
+Garland	Texas
+Amarillo	Texas
+Grand Prairie	Texas
+Brownsville	Texas
+McKinney	Texas
+Frisco	Texas
+Pasadena	Texas
+Mesquite	Texas
+Killeen	Texas
+McAllen	Texas
+Midland	Texas
+Waco	Texas
+Denton	Texas
+Carrollton	Texas
+Abilene	Texas
+Round Rock	Texas
+Beaumont	Texas
+Odessa	Texas
+Pearland	Texas
+Richardson	Texas
+College Station	Texas
+Tyler	Texas
+Wichita Falls	Texas
+Lewisville	Texas
+League City	Texas
+San Angelo	Texas
+Salt Lake City	Utah
+West Valley City	Utah
+Provo	Utah
+West Jordan	Utah
+Virginia Beach	Virginia
+Norfolk	Virginia
+Chesapeake	Virginia
+Richmond	Virginia
+Newport News	Virginia
+Alexandria	Virginia
+Hampton	Virginia
+Seattle	Washington
+Spokane	Washington
+Tacoma	Washington
+Vancouver	Washington
+Bellevue	Washington
+Kent	Washington
+Everett	Washington
+Renton	Washington
+Milwaukee	Wisconsin
+Madison	Wisconsin
+Green Bay	Wisconsin
